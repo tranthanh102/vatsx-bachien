@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d85c04558a438c2fe4d869a1864a1ea0",
+    "revision": "0b2a27f6466ed60be2c202664e5e37b8",
     "url": "/vatsx-bachien/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vatsx-bachien/static/css/2.f4cffb7b.chunk.css"
   },
   {
-    "revision": "c5cba21f67befbe6d902",
-    "url": "/vatsx-bachien/static/css/main.4890ad73.chunk.css"
+    "revision": "2c5fbb5f21a4aa717dc6",
+    "url": "/vatsx-bachien/static/css/main.b4520a2b.chunk.css"
   },
   {
     "revision": "50e3f433f302652db102",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vatsx-bachien/static/js/2.c3db871d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5cba21f67befbe6d902",
-    "url": "/vatsx-bachien/static/js/main.79f5104a.chunk.js"
+    "revision": "2c5fbb5f21a4aa717dc6",
+    "url": "/vatsx-bachien/static/js/main.f2e6300f.chunk.js"
   },
   {
     "revision": "9135b9e927028e465329",

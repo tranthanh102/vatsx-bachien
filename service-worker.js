@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vatsx-bachien/precache-manifest.d936c5c2e7097a079d72f1ba9d6dc480.js"
+  "/vatsx-bachien/precache-manifest.d8cb4e9c3bd24402f43412dc057f06dc.js"
 );
 
 self.addEventListener('message', (event) => {
